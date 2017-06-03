@@ -8,6 +8,9 @@ Based off of https://github.com/aigarsdz/cmd-color-schemes, but with 16 actual c
 * Add the following to your .bashrc: 
 
     `LS_COLORS="ow=01;36;40"`
+* Add the following to your .tmux.conf:
+
+    `set -g default-terminal "xterm-256color"`
 
 ## Screenshots
 
